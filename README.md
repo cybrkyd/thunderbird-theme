@@ -13,7 +13,8 @@ Install directly from the Thunderbird add-ons menu:
 
 **Edit** > **Settings** > **Add-ons and Themes**
 
-Download and manually install from https://addons.thunderbird.net :
+Or download and manually install from https://addons.thunderbird.net :
+
 [Nu-grey-theme](https://addons.thunderbird.net/en-GB/thunderbird/addon/nu-grey-theme/)
 
 This theme primarily uses the colour hex #cccccc as the background. To make the reading pane window match the theme, go to:
