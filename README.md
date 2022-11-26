@@ -1,5 +1,5 @@
 
-# Nu-grey-theme for Thunderbird
+# Nu-grey theme for Thunderbird
 
 A simple grey theme for Thunderbird. A solid-colour theme using #ccc background which may help reduce eye-strain.
 
