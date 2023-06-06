@@ -13,7 +13,7 @@ Install directly from the Thunderbird add-ons menu:
 
 **Edit** > **Settings** > **Add-ons and Themes**
 
-Or download and manually install from https://addons.thunderbird.net :
+Or download and manually install from https://addons.thunderbird.net:
 
 [Nu-grey-theme](https://addons.thunderbird.net/en-GB/thunderbird/addon/nu-grey-theme/)
 
