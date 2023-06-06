@@ -1,0 +1,52 @@
+{
+  "manifest_version": 2,
+  "name": "Nu-grey-e8",
+  "description": "A simple grey theme.",
+  "version": "1.0",
+  "author": "Cybrkyd",
+  "homepage_url": "https://cybrkyd.com",
+  "applications": {
+    "gecko": {
+      "id": "grey-nu@cybrkyd",
+      "strict_min_version": "78.0"
+    }
+  },
+  "icons": {
+    "256": "icon.png"
+  },
+  "theme_experiment": {
+    "stylesheet": "style.css"
+  },
+  "theme": {
+    "colors": {
+      "bookmark_text": "#000",
+      "frame": "#e8e8e8",
+      "popup": "#e6e8ef",
+      "popup_text": "#000",
+      "popup_border": "#888",
+      "popup_highlight": "#999",
+      "popup_highlight_text": "#fff",
+      "sidebar": "#e8e8e8",
+      "sidebar_text": "#444",
+      "sidebar_highlight": "#999",
+      "sidebar_highlight_text": "#eee",
+      "sidebar_border": "#888",
+      "tab_text": "#333",
+      "tab_line": "#888",
+      "tab_loading": "#888",
+      "tab_background_text": "#333",
+      "toolbar": "#e8e8e8",    
+      "toolbar_field": "#f2f2f2",
+      "toolbar_field_text": "#333",
+      "toolbar_field_highlight": "#999",
+      "toolbar_field_highlight_text": "#fff",
+      "toolbar_field_border": "#888",
+      "toolbar_field_focus": "#f2f2f2",
+      "toolbar_field_text_focus": "#000",
+      "toolbar_field_border_focus": "#888",
+      "toolbar_top_separator": "#888",
+      "toolbar_bottom_separator": "#888",
+      "toolbar_vertical_separator": "#888"
+    }
+  }
+}

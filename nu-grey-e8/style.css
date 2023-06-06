@@ -1,0 +1,17 @@
+image.toolbarbutton-icon[label="Archive"] {
+	fill: orange;
+}
+
+image.toolbarbutton-icon[label="Delete"] {
+	fill: #FF6347;
+}
+
+splitter {
+    border-color: #888 !important;
+}
+
+#singlemessage>#msgHeaderView {
+    background-color: #e8e8e8 !important;
+    color: #333;
+    border-color: #888 !important;
+}
