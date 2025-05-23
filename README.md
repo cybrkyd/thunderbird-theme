@@ -7,6 +7,8 @@ A simple grey theme for Thunderbird. A solid-colour theme using #ccc background 
 
 Thunderbird 78+
 
+**IMPORTANT: This theme is not for Thunderbird Supernova (v115+).**
+
 ## Installation
 
 Install directly from the Thunderbird add-ons menu:
